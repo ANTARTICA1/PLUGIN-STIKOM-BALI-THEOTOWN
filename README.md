@@ -21,7 +21,7 @@ This building functions as a Decoration in the game.
 
 Berikut adalah tampilan gedung di dalam game:
 
-![Tampilan Siang](Screenshot 2026-01-18 235356.png)
+![Tampilan Siang](preview.png)
 _Tampilan gedung saat siang hari_
 
 ## Cara Install / Installation
