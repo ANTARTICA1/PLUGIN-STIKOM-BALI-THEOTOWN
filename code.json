@@ -1,0 +1,23 @@
+[
+  {
+    "id": "$geka.commercial.2026-01-18-23:41:18.663",
+    "author": "Geka",
+    "meta": {
+      "pca": {
+        "version": "4.4.2"
+      }
+    },
+    "frames": [
+      {
+        "bmp": "unnamed-removebg-preview.png"
+      }
+    ],
+    "build time": 5,
+    "width": 1,
+    "height": 1,
+    "level": 1,
+    "draw ground": true,
+    "people": 10,
+    "type": "commercial"
+  }
+]
