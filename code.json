@@ -1,7 +1,7 @@
 [
   {
-    "id": "$geka.commercial.2026-01-18-23:41:18.663",
-    "author": "Geka",
+    "id": "$gekaaaaa.education.2026-01-19-08:59:25.562",
+    "author": "Gekaaaaa",
     "meta": {
       "pca": {
         "version": "4.4.2"
@@ -9,15 +9,19 @@
     },
     "frames": [
       {
-        "bmp": "unnamed-removebg-preview.png"
+        "bmp": "StikomBali.png"
       }
     ],
-    "build time": 5,
-    "width": 1,
-    "height": 1,
-    "level": 1,
+    "build time": 0,
+    "influence education low": 700,
+    "influence education high": 700,
+    "provide aspect education low": 1000,
+    "provide aspect education high": 2500,
+    "aspect education low capacity": 2500,
+    "aspect education high capacity": 2500,
+    "width": 5,
+    "height": 5,
     "draw ground": true,
-    "people": 10,
-    "type": "commercial"
+    "type": "education"
   }
 ]
