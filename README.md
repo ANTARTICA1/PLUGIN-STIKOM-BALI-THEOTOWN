@@ -2,15 +2,15 @@
 
 ## Deskripsi (Bahasa Indonesia)
 
-Plugin ini menambahkan gedung **ITB STIKOM Bali** ke dalam game TheoTown. Dibuat dengan gaya pixel art yang menyesuaikan perspektif isometrik game untuk memberikan nuansa Indonesia pada kota buatanmu.
+Plugin ini menambahkan gedung **ITB STIKOM Bali** ke dalam game TheoTown.
 
-Gedung ini berfungsi sebagai Dekorasi di dalam game.
+Gedung ini berfungsi sebagai Gedung Edukasi di dalam game.
 
 ## Description (English)
 
 This plugin adds the **ITB STIKOM Bali** building to TheoTown. It's created in a pixel art style that adapts to the game's isometric perspective to give your city an Indonesian feel.
 
-This building functions as a Decoration in the game.
+This building serves as an Educational Building in the game.
 
 ## Fitur / Features
 
