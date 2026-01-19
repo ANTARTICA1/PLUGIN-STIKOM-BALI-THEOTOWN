@@ -14,7 +14,7 @@ This building functions as a Decoration in the game.
 
 ## Fitur / Features
 
-- **Custom Pixel Art:** Desain original berdasarkan gedung asli ITB STIKOM Bali.
+- **Custom Pixel Art:** Desain ITB STIKOM Bali.
 - **Indonesian Vibe:** Cocok untuk membangun kota bertema Indonesia.
 
 ## Screenshots
