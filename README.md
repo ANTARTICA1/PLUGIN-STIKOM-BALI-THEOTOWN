@@ -22,6 +22,9 @@ The building is configured via `code.json` adhering strictly to TheoTown Plugin 
 | Ground Rendering | `draw ground: true` | Seamless terrain blending with native game ground |
 | Build Time | Instant (0s) | Configured for sandbox and standard city builders |
 
+## In-Game Preview
+
+![ITB STIKOM Bali Campus in TheoTown](preview.png)
 ## Visual Design & Projection
 
 - 2.5D Isometric Dimetric Projection: Pixel artwork rendered according to TheoTown standard projection angles (true 2:1 isometric ratio).
